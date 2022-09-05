@@ -1,0 +1,25 @@
+,ech,condition,composant chimique
+AC3_GTCCGC_L007,CA3,CA,Caproate d’allyle (CA)
+AC4_GTGAAA_L007,CA4,CA,Caproate d’allyle (CA)
+AC5_GTGGCC_L007,CA5,CA,Caproate d’allyle (CA)
+AC6_GTTTCG_L007 ,CA6,CA,Caproate d’allyle (CA)
+EM3_CCGTCC_L007,EM3,EM,Ethyle maltol (EM)
+EM4_AGTCAA_L007,EM4,EM,Ethyle maltol (EM)
+EM5_AGTTCC_L007,EM5,EM,Ethyle maltol (EM)
+EM6_ATGTCA_L007,EM6,EM,Ethyle maltol (EM)
+HM1_ACAGTG_L007,Tampon1,Tampon,Huile minérale (HM)
+HM3_GCCAAT_L007,Tampon3,Tampon,Huile minérale (HM)
+HM4_ACTTGA_L007,Tampon4,Tampon,Huile minérale (HM)
+HM5_CAGATC_L007,Tampon5,Tampon,Huile minérale (HM)
+IE3_GATCAG_L007,IE3,IE,Isobutyrate d’éthyle (IE)
+IE4_CTTGTA_L007,IE4,IE,Isobutyrate d’éthyle (IE)
+IE5_TAGCTT_L007,IE5,IE,Isobutyrate d’éthyle (IE)
+IE6_GGCTAC_L007,IE6,IE,Isobutyrate d’éthyle (IE)
+MEL1_ATTCCT_L007,MEL1,MEL,Mélange IE + EM (MEL)
+MEL3_CGTACG_L007,MEL3,MEL,Mélange IE + EM (MEL)
+MEL4_ACTGAT_L007,MEL4,MEL,Mélange IE + EM (MEL)
+MEL6_GAGTGG_L007,MEL6,MEL,Mélange IE + EM (MEL)
+TE1_ATCACG_L007,Untreated1,Untreated,Témoin
+TE3_TGACCA_L007,Untreated3,Untreated,Témoin
+TE4_CGATGT_L007,Untreated4,Untreated,Témoin
+TE5_TTAGGC_L007,Untreated5,Untreated,Témoin
