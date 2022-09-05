@@ -1,0 +1,2 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Unknown	Unknown
+HGNC:15241	OR55B1P	olfactory receptor family 55 subfamily B member 1 pseudogene	Approved	OR55B2P, OR55C1P		11p15.4			OR55	"GPCR / Class A : Olfactory receptors"

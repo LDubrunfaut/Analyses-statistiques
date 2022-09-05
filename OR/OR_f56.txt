@@ -1,0 +1,10 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Unknown	Unknown
+HGNC:14781	OR56A1	olfactory receptor family 56 subfamily A member 1	Approved			11p15.4	AB065821	NM_001001917	OR56	"GPCR / Class A : Olfactory receptors"
+HGNC:14786	OR56A3	olfactory receptor family 56 subfamily A member 3	Approved	OR56A6, OR56A3P		11p15.4		NM_001003443	OR56	"GPCR / Class A : Olfactory receptors"
+HGNC:14791	OR56A4	olfactory receptor family 56 subfamily A member 4	Approved			11p15.4	BK004255	NM_001005179	OR56	"GPCR / Class A : Olfactory receptors"
+HGNC:14792	OR56A5	olfactory receptor family 56 subfamily A member 5	Approved	OR56A5P		11p15.4		XM_001715165	OR56	"GPCR / Class A : Olfactory receptors"
+HGNC:15244	OR56A7P	olfactory receptor family 56 subfamily A member 7 pseudogene	Approved			11p15.4			OR56	"GPCR / Class A : Olfactory receptors"
+HGNC:15245	OR56B1	olfactory receptor family 56 subfamily B member 1	Approved	OR56B1P		11p15.4	BK004386	NM_001005180	OR56	"GPCR / Class A : Olfactory receptors"
+HGNC:15246	OR56B2P	olfactory receptor family 56 subfamily B member 2 pseudogene	Approved	OR56B2		11p15.4			OR56	"GPCR / Class A : Olfactory receptors"
+HGNC:15247	OR56B3P	olfactory receptor family 56 subfamily B member 3 pseudogene	Approved			11p15.4			OR56	"GPCR / Class A : Olfactory receptors"
+HGNC:15248	OR56B4	olfactory receptor family 56 subfamily B member 4	Approved			11p15.4	AB065513	NM_001005181	OR56	"GPCR / Class A : Olfactory receptors"

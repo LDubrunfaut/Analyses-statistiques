@@ -1,0 +1,7 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Unknown	Unknown
+HGNC:8282	OR3A1	olfactory receptor family 3 subfamily A member 1	Approved		OLFRA03, OR40, OR17-40	17p13.3	X80391		OR3	"GPCR / Class A : Olfactory receptors"
+HGNC:8283	OR3A2	olfactory receptor family 3 subfamily A member 2	Approved		OLFRA04, OR228, OR17-228	17p13.3	U04713		OR3	"GPCR / Class A : Olfactory receptors"
+HGNC:8284	OR3A3	olfactory receptor family 3 subfamily A member 3	Approved	OR3A6, OR3A7, OR3A8P	OR17-201, OR17-137, OR17-16	17p13.2	U04688		OR3	"GPCR / Class A : Olfactory receptors"
+HGNC:15510	OR3A4P	olfactory receptor family 3 subfamily A member 4 pseudogene	Approved	OR3A4		17p13.3	BK004695	NM_001005334	OR3	"GPCR / Class A : Olfactory receptors"
+HGNC:14839	OR3B1P	olfactory receptor family 3 subfamily B member 1 pseudogene	Approved			Xq28	AF277315		OR3	"GPCR / Class A : Olfactory receptors"
+HGNC:25339	OR3D1P	olfactory receptor family 3 subfamily D member 1 pseudogene	Approved			1q44			OR3	"GPCR / Class A : Olfactory receptors"

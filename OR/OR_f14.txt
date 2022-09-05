@@ -1,0 +1,8 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Unknown	Unknown
+HGNC:15024	OR14A2	olfactory receptor family 14 subfamily A member 2	Approved	OR5AX1P, OR5AX1		1q44	AB065620	NG_002409	OR14	"GPCR / Class A : Olfactory receptors"
+HGNC:15022	OR14A16	olfactory receptor family 14 subfamily A member 16	Approved	OR5AT1		1q44	BK004366	NM_001001966	OR14	"GPCR / Class A : Olfactory receptors"
+HGNC:15026	OR14C36	olfactory receptor family 14 subfamily C member 36	Approved	OR5BF1		1q44	BK004466	NM_001001918	OR14	"GPCR / Class A : Olfactory receptors"
+HGNC:19575	OR14I1	olfactory receptor family 14 subfamily I member 1	Approved	OR5BU1P, OR5BU1		1q44		NM_001004734	OR14	"GPCR / Class A : Olfactory receptors"
+HGNC:13971	OR14J1	olfactory receptor family 14 subfamily J member 1	Approved	OR5U1	hs6M1-28	6p22.1			OR14	"GPCR / Class A : Olfactory receptors"
+HGNC:15025	OR14K1	olfactory receptor family 14 subfamily K member 1	Approved	OR5AY1		1q44	BK004377	NM_001004732	OR14	"GPCR / Class A : Olfactory receptors"
+HGNC:15023	OR14L1P	olfactory receptor family 14 subfamily L member 1 pseudogene	Approved	OR5AV1, OR5AV1P		1q44		NG_004286	OR14	"GPCR / Class A : Olfactory receptors"

@@ -1,0 +1,4 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Unknown	Unknown
+HGNC:8177	OR12D1	olfactory receptor family 12 subfamily D member 1 (gene/pseudogene)	Approved	OR12D1P	hs6M1-19	6p22.1			OR12	"GPCR / Class A : Olfactory receptors"
+HGNC:8178	OR12D2	olfactory receptor family 12 subfamily D member 2 (gene/pseudogene)	Approved		hs6M1-20	6p22.1			OR12	"GPCR / Class A : Olfactory receptors"
+HGNC:13963	OR12D3	olfactory receptor family 12 subfamily D member 3	Approved		hs6M1-27	6p22.1			OR12	"GPCR / Class A : Olfactory receptors"
